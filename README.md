@@ -103,12 +103,3 @@ Here's an example:
 # ✨ Showcase
 
 https://github.com/user-attachments/assets/52071061-c55c-4564-b880-29efab6a1749
-
-# ✉️ Contact
-[Telegram](https://t.me/dreamcestudio)
-
-[Email](mailto:dreamcodestudio@yandex.com)
-
-# 🔑 License
-
-[Unity Asset Store EULA](https://unity.com/legal/as-terms)
